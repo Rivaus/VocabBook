@@ -1,0 +1,57 @@
+.blue-bck {
+    background-color: rgb(38, 151, 159);
+}
+
+.beige-bck {
+    background-color: rgba(234, 226, 207, 255);
+}
+
+.red-bck {
+    background-color: rgba(232, 77, 91, 255);
+}
+
+.light-blue-color {
+    color: rgba(180, 204, 185, 255);
+}
+
+.red-color {
+    color: rgba(232, 77, 91, 255);
+}
+
+.blue-color {
+    color: rgba(38, 151, 159, 255);
+}
+
+.maron-bck {
+    background-color: rgba(59, 59, 59, 255);
+}
+
+.default-text-field {
+    flex-direction: column;
+}
+
+.default-text-field > Label {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 30px;
+    -unity-text-align: middle-left;
+    color: rgba(38, 151, 159, 255);
+}
+
+.default-text-field > #unity-text-input {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: rgba(180, 204, 185, 255);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
